@@ -7,8 +7,11 @@
       "RelativeMoniker": "D:0:0:{45FEAC68-4509-2C81-A699-E91944FEC65F}|Assembly-CSharp.csproj|solutionrelative:assets\\companionfollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{45FEAC68-4509-2C81-A699-E91944FEC65F}|Assembly-CSharp.csproj|d:\\unity\\thesis-companion behaviour\\assets\\companionreward.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{45FEAC68-4509-2C81-A699-E91944FEC65F}|Assembly-CSharp.csproj|D:\\Unity\\Thesis-Companion Behaviour\\assets\\companionreward.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{45FEAC68-4509-2C81-A699-E91944FEC65F}|Assembly-CSharp.csproj|solutionrelative:assets\\companionreward.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Unity\\Companion Behaviour Thesis\\Assets\\Player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{45FEAC68-4509-2C81-A699-E91944FEC65F}|Assembly-CSharp.csproj|D:\\Unity\\Thesis-Companion Behaviour\\assets\\punchstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,9 +20,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{45FEAC68-4509-2C81-A699-E91944FEC65F}|Assembly-CSharp.csproj|D:\\Unity\\Thesis-Companion Behaviour\\assets\\characterlocomotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{45FEAC68-4509-2C81-A699-E91944FEC65F}|Assembly-CSharp.csproj|solutionrelative:assets\\characterlocomotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Unity\\Companion Behaviour Thesis\\Assets\\Player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{45FEAC68-4509-2C81-A699-E91944FEC65F}|Assembly-CSharp.csproj|D:\\Unity\\Thesis-Companion Behaviour\\assets\\gaurd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -59,14 +59,14 @@
               "RelativeDocumentMoniker": "Assets\\CompanionReward.cs",
               "ToolTip": "D:\\Unity\\Thesis-Companion Behaviour\\Assets\\CompanionReward.cs",
               "RelativeToolTip": "Assets\\CompanionReward.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-03T19:48:20.975Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "punchstate.cs",
               "DocumentMoniker": "D:\\Unity\\Thesis-Companion Behaviour\\Assets\\punchstate.cs",
               "RelativeDocumentMoniker": "Assets\\punchstate.cs",
@@ -108,7 +108,7 @@
               "RelativeDocumentMoniker": "Assets\\CompanionFollow.cs",
               "ToolTip": "D:\\Unity\\Thesis-Companion Behaviour\\Assets\\CompanionFollow.cs",
               "RelativeToolTip": "Assets\\CompanionFollow.cs",
-              "ViewState": "AQIAAFUAAAAAAAAAAAAAAGsAAAAFAAAA",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAAAGQAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-29T18:24:42.243Z",
               "EditorCaption": ""
@@ -127,7 +127,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Player.cs",
               "DocumentMoniker": "D:\\Unity\\Companion Behaviour Thesis\\Assets\\Player.cs",
               "RelativeDocumentMoniker": "..\\Companion Behaviour Thesis\\Assets\\Player.cs",
@@ -140,7 +140,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "CharacterLocomotion.cs",
               "DocumentMoniker": "D:\\Unity\\Thesis-Companion Behaviour\\Assets\\CharacterLocomotion.cs",
               "RelativeDocumentMoniker": "Assets\\CharacterLocomotion.cs",

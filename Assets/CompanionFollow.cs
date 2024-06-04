@@ -15,6 +15,7 @@ public class CompanionFollow : MonoBehaviour
     public LayerMask enemyMask;
     private bool punch = true;
     private bool agPunch = false;
+    public CompanionReward Reward;
     // Start is called before the first frame update
     void Start()
     {
@@ -96,14 +97,10 @@ public class CompanionFollow : MonoBehaviour
             Debug.Log("Aghit");
         }
     }
-    public void OnTriggerEnter(Collider other)
+    public void FoundReward()
     {
-        if(other.CompareTag("Reward"))
-        {
-            dest = other.transform.position;
-            ai.destination = dest;
-            ai.stoppingDistance = 2;
-            Debug.Log("Found a reward");
-        }
+        dest = Reward.transform.position;
+        ai.destination = dest;
+        ai.stoppingDistance = 2;
     }
 }

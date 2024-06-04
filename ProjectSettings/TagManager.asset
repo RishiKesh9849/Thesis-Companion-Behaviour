@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Waypoints
   - Reward
+  - Companion
   layers:
   - Default
   - TransparentFX
